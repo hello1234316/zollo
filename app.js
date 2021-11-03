@@ -1,15 +1,15 @@
 import React from 'react';
 
 // Message Renderer
-import Renderer from './renderer.js';
+import Renderer from 'renderer.js';
 
 // Components
-import ContentInput from './components/contentInput.js';
-import AvatarInput from './components/avatarInput.js';
-import ColorInput from './components/colorInput.js';
-import TimestampInput from './components/timestampInput.js';
-import LightInput from './components/lightInput.js';
-import AttachmentInput from './components/attachmentInput.js';
+import ContentInput from 'contentInput.js';
+import AvatarInput from '.avatarInput.js';
+import ColorInput from 'colorInput.js';
+import TimestampInput from 'timestampInput.js';
+import LightInput from 'lightInput.js';
+import AttachmentInput from 'attachmentInput.js';
 
 // Default Settings
 import config from 'default.json';
